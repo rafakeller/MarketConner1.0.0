@@ -1,0 +1,18 @@
+# Arquivos binários
+*.exe
+*.dll
+*.pdb
+
+# Arquivos de saída compilados
+bin/
+obj/
+.vs/
+
+# Arquivos específicos de IDE ou editor
+.vscode/
+.idea/
+
+# Arquivos de configuração específicos do usuário
+*.suo
+*.user
+*.sln.docstates
